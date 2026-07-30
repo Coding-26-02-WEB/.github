@@ -1,0 +1,3 @@
+# Web Frontend B-26-02
+
+> Hier befindet sich in Zukunft die Liste der Repositories mit dem Live-Code aus den Vorlesungen...

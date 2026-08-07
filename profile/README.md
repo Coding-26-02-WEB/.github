@@ -4,3 +4,4 @@
 </div>
 
 1. [Live-Demo Woche 1](https://github.com/Coding-26-02-WEB/react-woche-1)
+2. [Wiederholung Woche 1](https://github.com/Coding-26-02-WEB/ledger-one-product-page)

@@ -3,5 +3,6 @@
     <h1 style="background: #070F38; color: #FFF251; padding: 16px; margin: 0px;">Web Frontend B-26-02</h1>
 </div>
 
-1. [Live-Demo Woche 1](https://github.com/Coding-26-02-WEB/react-woche-1)
-2. [Wiederholung Woche 1](https://github.com/Coding-26-02-WEB/ledger-one-product-page)
+1. [Live-Demo](https://github.com/Coding-26-02-WEB/react-woche-1)
+2. ["LEDGER ONE" Demo-Projekt](https://github.com/Coding-26-02-WEB/ledger-one-product-page)
+3. [Bootstrap Beispiel](https://github.com/Coding-26-02-WEB/bootstrap-example)
